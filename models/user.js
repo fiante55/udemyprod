@@ -9,4 +9,4 @@ const userSchema = new Schema({
   // Can add properties as we go
 })
 
-mongoose.model('users', userSchema) // Create collection if not there
+module.exports = mongoose.model('users', userSchema) // Create collection if not there
