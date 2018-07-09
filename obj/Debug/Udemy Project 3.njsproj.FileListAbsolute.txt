@@ -1,0 +1,3 @@
+C:\Users\simci\Desktop\SEO project\Udemy Project 3\Udemy Project 3\obj\Debug\Udemy Project 3.njsprojResolveAssemblyReference.cache
+C:\Users\simci\Desktop\SEO project\Udemy Project 3\Udemy Project 3\obj\Debug\Udemy Project 3.njsproj.CoreCompileInputs.cache
+C:\Users\simci\Desktop\SEO project\Udemy Project 3\Udemy Project 3\bin\Microsoft.NodejsTools.WebRole.dll
